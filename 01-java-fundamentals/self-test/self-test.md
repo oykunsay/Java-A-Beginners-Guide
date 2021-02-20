@@ -17,8 +17,8 @@ Q7: Show the general form of the if statement. Show the general form of the for 
 
 Q8: How do you create a block of code? > With braces. {}
 
-Q9:
-Q10: 
+Q9: ./MoonWeight.java
+Q10: ./InchToMeterTable.java
 
 Q11: If you make a typing mistake when entering your program, what sort of error will result? > Syntax error
 
