@@ -16,7 +16,7 @@ Q8: In an expression, what type are byte and short promoted to? > integers (shor
 
 Q9: In general, when is a cast needed? > Casts are needed for incompatible types or narrowing conversion.
 
-Q10: Write a program that finds all of the prime numbers between 2 and 100. > See ./Primes.java
+Q10: Write a program that finds all of the prime numbers between 2 and 100. > See /.Primes.java
 
 Q11:  Does the use of redundant parentheses affect program performance? > No, redundant parentheses don't affect the program.
 
