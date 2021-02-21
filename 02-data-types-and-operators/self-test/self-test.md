@@ -1,3 +1,5 @@
+# Chapter 2 Self Test
+
 Q1: Why does Java strictly specify the range and behavior of its primitive types? > Because of Java's portability requirement.
 
 Q2: What is Java’s character type, and how does it differ from the character type used by some other programming languages? > Char, Java characters are Unicode more than ASCII.
